@@ -1,0 +1,3 @@
+geometry_msgs/Pose wp
+---
+bool reachedWP
